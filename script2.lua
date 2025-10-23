@@ -1,3 +1,3 @@
 script_key = "bLpZvSawKprfmTSmDwPcZllUGQioirsr"
-loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/f7f25bcdfb54477d11b7d228c0127c2e.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bimoraa/Euphoria/refs/heads/main/loader.luau"))()
 
